@@ -39,7 +39,7 @@ Follow the process described in the course to `eb init` a new application and `e
 
 ### GITHUB URL
 
-- https://github.com/mengiefen/image-filter.git#readme
+- https://github.com/mengiefen/image-filter.git
 
 ## Stand Out (Optional)
 
