@@ -34,8 +34,12 @@ Follow the process described in the course to `eb init` a new application and `e
 
 ### Elastic Beanstalk Endpoint
 
-- http://menge-udacity-project2-dev2.us-east-1.elasticbeanstalk.com/
-- http://menge-udacity-project2-dev2.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://cdn.pixabay.com/photo/2019/11/08/11/56/kitten-4611189_960_720.jpg
+- http://menge-udacity-project2-dev.us-east-1.elasticbeanstalk.com/
+- http://menge-udacity-project2-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg
+
+### GITHUB URL
+
+- https://github.com/mengiefen/image-filter.git
 
 ## Stand Out (Optional)
 
